@@ -1,5 +1,5 @@
 Student Project - Django Web Application
-This project is a Django-based web application designed to showcase Vaishnavi Lilhare's public profile, along with dedicated pages for contact, projects, and an about me section. The entire project is containerized using Docker and features an automated CI/CD pipeline using Jenkins.
+This project is a Django-based web application designed to showcase Tanvi Bhoyar's public profile, along with dedicated pages for contact, projects, and an about me section. The entire project is containerized using Docker and features an automated CI/CD pipeline using Jenkins.
 
 📑 Table of Contents
 Project Overview
@@ -31,8 +31,8 @@ Version Control: Git & GitHub
 🛠 Installation
 Follow these steps to set up the project locally:
 1️⃣ Clone the Repository
-git clone https://github.com/SRCEM-AIML/C4_49_vaishnavililhare_Assignment2.git
-cd C4_49_vaishnavililhare_Assignment2
+git clone https://github.com/SRCEM-AIML/C3_44_Assignment2_TanviBhoyar.git
+cd C3_44_Assignment2_TanviBhoyar
 2️⃣ Set Up a Virtual Environment (Recommended)
 python -m venv venv
 # On Windows:
